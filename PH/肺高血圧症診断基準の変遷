@@ -1,0 +1,17 @@
+# 肺高血圧症診断基準の変遷
+1973年の第1回世界肺高血圧シンポジウム（WSPH）以来，肺高血圧は恣意的にRHCで測定した仰臥位安静時のmPAPが25mmHg以上と高めに設定されてきた（[Primary Pulmonary Hypertension. Report on a WHO Meeting/. Geneva, World Health Organization, 1975.](https://apps.who.int/iris/bitstream/handle/10665/39094/9241560444_eng.pdf)）．
+
+## mPAP
+しかし，2009年に健常者のmPAPが14.0 ± 3.3 mmHgであることがわかった（[Eur Respir J. 2009 Oct;34(4):888-94.](https://doi.org/10.1183/09031936.00145608)）．この集団においてmPAP > 20mmHgは一般的な基準値の範囲外（平均値 ± 2SDの範囲外，即ち97.5パーセンタイル以上）であった．
+
+これを受けて2018年2月のWSPHで肺高血圧症の定義が`mPAP ≥ 20mmHg`に改定された（[Eur Respir J. 2019 Jan 24;53(1):1801913.](https://doi.org/10.1183/13993003.01913-2018)）．
+
+## PVR
+また，PAP上昇にはCO増加，左右シャント，左心系疾患による肺動脈楔入圧（PAWP）の上昇，血液の粘稠度などの他の原因がある．これらを識別するために[[肺血管抵抗（PVR: pulmonary vascular resistance）]] が診断基準に組み込まれた．
+
+PVRは2013年時点でのレビューでは2 wood超でも異常とみなされ得る事が報告されている（[Am Coll Cardiol. 2013 Dec 24;62(25 Suppl):D42-50.](https://doi.org/10.1016/j.jacc.2013.10.032)）．しかしPVR ≥ 3 woodは様々な重症肺血管疾患を示唆し，左右シャントの修正適応外や心移植後の生存率低下を示唆する．このため，2018年3月のWSPHでは予後不良と関連する前毛細血管PHと複合型PHを検出するためにカットオフとして`PVR ≥ 3 wood`が推奨されることとなった（[Eur Respir J. 2019 Jan 24;53(1):1801913.](https://doi.org/10.1183/13993003.01913-2018)）．
+
+- - - -
+## 参考資料
+* 2019 Haemodynamic definitions and updated clinical classification of pulmonary hypertension [Eur Respir J. 2019 Jan 24;53(1):1801913.](https://doi.org/10.1183/13993003.01913-2018)
+* 2020 循環器ジャーナル 心エコー図で何を見る？
